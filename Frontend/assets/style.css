@@ -1,0 +1,14 @@
+.logo-container {
+  width: 50px;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0.6); /* Adjust the opacity as needed */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-image {
+  height: 100%;
+  object-fit: contain;
+  opacity: 1; /* Adjust the opacity if needed */
+}

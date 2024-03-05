@@ -1,0 +1,3 @@
+
+[database]
+con = mysql+pymysql://root:admin@localhost/wrd_dash
